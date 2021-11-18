@@ -1,2 +1,2 @@
 # proaktif
- proaktif eb sitesi
+ proaktif web sitesi
